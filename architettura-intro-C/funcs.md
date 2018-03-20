@@ -19,7 +19,7 @@ Le principali differenze con la definizione in Python sono:
 2. il corpo della funzione è delimitato dalle parentesi graffe `{}`, piuttosto che dall'indentazione
 diversa. Questo varrà dovunque c'è un blocco di istruzioni (nei rami
 dell'`if-else`)
-3. dopo il return c'è un punto e virgola (`;`)
+3. dopo il `return` c'è un punto e virgola (`;`)
 4. il nome della funzione è preceduto da `int`: questo è un identificativo del
 tipo di dato ritornato dalla funzione. In C, il tipo di dato ritornato da una
 funzione (e non solo quello) viene
